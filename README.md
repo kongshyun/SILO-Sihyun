@@ -1,1 +1,4 @@
-# SILO-Arduino Project repository
+# SILOLab
+
+기술개발팀
+깃허브 실습과제용 레퍼지토리
